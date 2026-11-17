@@ -1,7 +1,7 @@
 # Retail Sales Performance Analysis Using Microsoft Excel
 
 ## Project Overview
-This project focuses on analyzing retail sales data using Microsoft Excel. I completed this project independently in just **30 minutes**, without following any tutorials.
+This project focuses on analyzing retail sales data using Microsoft Excel. I completed this project independently in just **40 minutes**, without following any tutorials.
 
 The main objective was to transform raw sales data into meaningful business insights and support data-driven business decisions.
 
@@ -41,7 +41,7 @@ The main objective was to transform raw sales data into meaningful business insi
 ## Project Details
 - **Project:** Retail Sales Performance Analysis
 - **Tool:** Microsoft Excel
-- **Completion Time:** 30 Minutes
+- **Completion Time:** 40 Minutes
 - **Project Type:** Practical Business Analysis
 - **Completed Independently:** Yes
 
